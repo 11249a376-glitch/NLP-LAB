@@ -1,1 +1,1 @@
-# NLP-LAB
+# Data Visualization Laboratory 
